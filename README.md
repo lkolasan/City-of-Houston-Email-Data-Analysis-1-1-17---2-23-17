@@ -1,3 +1,6 @@
+https://data.world/sketchcity/city-of-houston-email-metadata-january-march-2017
+Assembled by Matt Chapman (hubblefisher@gmail.com) through FOIA request.
+
 Data includes: 
 Sender 
 To 
@@ -5,8 +8,6 @@ CC
 BCC 
 Sent date/time 
 Received date/time 
-
-Assembled by Matt Chapman (hubblefisher@gmail.com) through FOIA request.
 
 I use the dataset to determine 
 a. communities / teams 
